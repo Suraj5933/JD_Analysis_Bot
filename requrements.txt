@@ -1,4 +1,4 @@
 streamlit
-PyMuPDF
+pymupdf
 openai
 pandas
