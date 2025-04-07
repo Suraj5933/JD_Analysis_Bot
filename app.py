@@ -1,4 +1,8 @@
 import streamlit as st
+import fitz  # this is PyMuPDF
+import openai
+import pandas as pd
+import streamlit as st
 import fitz  # PyMuPDF
 import json
 import openai
